@@ -1,6 +1,6 @@
 <!-- Background Image Section -->
 <p align="center">
-  <img src="https://your-background-image-link.com/bg.jpg" alt="background" width="100%" style="border-radius: 10px;">
+  <img src="[https://your-background-image-link.com/bg.jpg](https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?semt=ais_hybrid&w=740)" alt="background" width="100%" style="border-radius: 10px;">
 </p>
 
 <!-- Profile Image on Top -->
