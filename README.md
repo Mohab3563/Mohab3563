@@ -1,20 +1,35 @@
-<!-- Background Image Section -->
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?semt=ais_hybrid&w=740" alt="background" width="100%" style="border-radius: 10px;">
-</p>
+<!-- Background GIF container -->
+<div align="center" style="position: relative; width: 100%; max-width: 100%;">
 
-<!-- Profile Image on Top -->
-<p align="center" style="margin-top: -200px;">
-  <img src="https://your-logo-or-profile-image.com/logo.png" width="150" style="border-radius: 50%; border: 4px solid white; box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);" />
-</p>
+  <!-- Background GIF -->
+  <img src="https://your-moving-background.gif" alt="Background GIF" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px;">
 
-<!-- Professional Bio -->
-<h1 align="center">Hi, I'm Mahmoud Ahmed Fawzy 👋</h1>
-<p align="center">
-  🚀 Machine Learning Engineer | 📱 React Native Developer  
-  <br/>
-  💡 Building smart fitness apps powered by AI  
-  <br/>
-  📍 Based in Egypt | ✉️ mahmoud@example.com  
-</p>
+  <!-- Overlay content -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+  ">
 
+    <!-- Profile image -->
+    <img src="https://your-profile-image.png" width="120" style="border-radius: 50%; border: 3px solid white; margin-bottom: 20px;">
+
+    <!-- Text -->
+    <h1 style="margin: 0;">Hi, I'm Mahmoud Ahmed Fawzy 👋</h1>
+    <p style="font-size: 18px; margin: 5px 0;">
+      🚀 Machine Learning Engineer | 📱 React Native Developer
+    </p>
+    <p style="font-size: 16px; margin: 0;">
+      💡 I build AI-powered apps with clean UI and smart brains.
+    </p>
+  </div>
+</div>
