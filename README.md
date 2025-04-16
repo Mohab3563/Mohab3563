@@ -2,7 +2,7 @@
 <div align="center" style="position: relative; width: 100%; max-width: 100%;">
 
   <!-- Background GIF -->
-  <img src="https://your-moving-background.gif" alt="Background GIF" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px;">
+  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" style="width: 100%; max-height: 400px; object-fit: cover; border-radius: 10px;">
 
   <!-- Overlay content -->
   <div style="
