@@ -1,17 +1,12 @@
-<!-- Background GIF as a banner -->
+<!-- Background GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="background gif" width="100%" style="border-radius: 10px;">
+  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="100%">
 </p>
 
-<!-- Profile image -->
+<!-- Profile Image -->
 <p align="center">
-  <img src="https://your-profile-image.png" width="120" style="border-radius: 50%; border: 3px solid white;">
+  <img src="https://your-profile-image.png" width="140" style="border-radius: 50%; border: 4px solid white; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);">
 </p>
 
-<!-- Text -->
-<h1 align="center">Hi, I'm Mahmoud Ahmed Fawzy 👋</h1>
-<p align="center">
-  🚀 Machine Learning Engineer | 📱 React Native Developer  
-  <br/>
-  💡 I build AI-powered apps with clean UI and smart brains.
-</p>
+<h1 align="center">Hi, I'm Mohab Mohamed Rabie 👋</h1>
+<p align="center">💻 Software Developer | 🧠 ML & AI Instructor</p>
